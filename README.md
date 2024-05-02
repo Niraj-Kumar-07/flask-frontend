@@ -5,9 +5,13 @@ This is a simple Flask application that simulates flipping a coin. It is dockeri
 ## Usage
 
 1. Clone the repository:
-
+```
+git clone https://github.com/Niraj-Kumar-07/flask-frontend.git
+```
 2. Navigate to the project directory:
-
+```
+cd flask-frontend
+```
 3. Build and run the Docker containers:
 ```
    docker-compose up --build
