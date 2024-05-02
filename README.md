@@ -15,6 +15,7 @@ This is a simple Flask application that simulates flipping a coin. It is dockeri
 4. Open a web browser and go to `http://localhost` to view the application.
 
 ## Architecture
+![image](https://github.com/Niraj-Kumar-07/flask-frontend/assets/128659799/b02d5721-4d45-41cd-88b1-858c09f5e31c)
 
 - **Flask App**: The core application is built with Flask, a lightweight WSGI web application framework.
 - **Gunicorn**: Gunicorn is used as the WSGI server to handle incoming HTTP requests efficiently.
